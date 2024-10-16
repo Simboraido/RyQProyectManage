@@ -1,2 +1,1 @@
-# RyQProyectManage
-Entrega de Prototipo
+# software
